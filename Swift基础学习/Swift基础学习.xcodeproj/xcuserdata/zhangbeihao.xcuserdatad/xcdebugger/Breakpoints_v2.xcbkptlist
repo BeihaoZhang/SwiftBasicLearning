@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift&#x57fa;&#x7840;&#x5b66;&#x4e60;/Protocol.swift"
+            timestampString = "550399608.203476"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "test()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift&#x57fa;&#x7840;&#x5b66;&#x4e60;/PatternMatching.swift"
+            timestampString = "550661009.3321609"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "myPrint()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift&#x57fa;&#x7840;&#x5b66;&#x4e60;/PatternMatching.swift"
+            timestampString = "550661119.563512"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "myPrint()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swift&#x57fa;&#x7840;&#x5b66;&#x4e60;/AsynchronousClosureAndMemoryManagement.swift"
+            timestampString = "550901629.485104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "execute(backgroundWork:mainWork:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swift&#x57fa;&#x7840;&#x5b66;&#x4e60;.CaptureLists.myTest() -&gt; ()"
+                  moduleName = "Swift&#x57fa;&#x7840;&#x5b66;&#x4e60;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangbeihao/Desktop/Swift%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/Swift%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/AsynchronousClosureAndMemoryManagement.swift"
+                  timestampString = "550901636.7898231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Swift&#x57fa;&#x7840;&#x5b66;&#x4e60;.CaptureLists.myTest() -&gt; ()"
+                  moduleName = "Swift&#x57fa;&#x7840;&#x5b66;&#x4e60;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangbeihao/Desktop/Swift%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/Swift%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/AsynchronousClosureAndMemoryManagement.swift"
+                  timestampString = "550901636.793913"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
